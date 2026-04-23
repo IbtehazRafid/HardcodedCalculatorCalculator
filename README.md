@@ -1,7 +1,7 @@
 # HardcodedCalculator — JavaFX
 A desktop calculator that refuses to compute anything directly. Instead, it writes a brand-new
 Java source file for your expression, compiles it, runs it as a subprocess, and reads the
-result back from a text file. Why? Because I can.
+result back from a text file. Why? Because it can.
 
 ## Features
 - Addition, subtraction, multiplication, division
